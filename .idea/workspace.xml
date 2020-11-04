@@ -10,7 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1josNgYMSkzt6CZxGopQXs3Pfaj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +58,7 @@
       <updated>1604481740602</updated>
       <workItem from="1604481742782" duration="669000" />
       <workItem from="1604482432652" duration="1487000" />
-      <workItem from="1604484103363" duration="14721000" />
+      <workItem from="1604484103363" duration="15176000" />
     </task>
     <servers />
   </component>
@@ -78,10 +82,14 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="635" y="202" key="FileChooserDialogImpl/0.0.1707.920/-1920.817.1920.1040@0.0.1707.920" timestamp="1604484315831" />
-    <state x="-1106" y="1235" key="Github.ShareDialog" timestamp="1604511253089">
+    <state x="-1106" y="1235" key="Github.ShareDialog" timestamp="1604511353834">
       <screen x="-1920" y="817" width="1920" height="1040" />
     </state>
-    <state x="-1106" y="1235" key="Github.ShareDialog/0.0.1707.920/-1920.817.1920.1040@-1920.817.1920.1040" timestamp="1604511253089" />
+    <state x="-1106" y="1235" key="Github.ShareDialog/0.0.1707.920/-1920.817.1920.1040@-1920.817.1920.1040" timestamp="1604511353834" />
+    <state x="-1151" y="1042" key="Github.UntrackedFilesDialog" timestamp="1604511361607">
+      <screen x="-1920" y="817" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="1042" key="Github.UntrackedFilesDialog/0.0.1707.920/-1920.817.1920.1040@-1920.817.1920.1040" timestamp="1604511361607" />
     <state width="1686" height="300" key="GridCell.Tab.0.bottom" timestamp="1604484440652">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
